@@ -1,6 +1,7 @@
 # Classic-Pong-Game-
 Classic Pong Game (2-Player)
-A simple 2-player Pong game built with Python. One player controls the left paddle using WASD keys,
+A simple 2-player Pong game built with Python Turtle module with Object-Oriented Programming.
+One player controls the left paddle using WASD keys,
 while the other controls the right paddle using Arrow keys. 
 The goal is to bounce the ball past your opponent's paddle to score points.
 # Features
